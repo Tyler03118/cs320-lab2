@@ -1,1 +1,1 @@
-# cs320-lab2
+This repository is used for CS 320
